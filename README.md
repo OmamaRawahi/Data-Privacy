@@ -1,4 +1,4 @@
-##Data Privay Labs
+##Data Privacy Labs
 
 CONTENT
 - De-identification
